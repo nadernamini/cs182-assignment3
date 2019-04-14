@@ -1,0 +1,9 @@
+models/ filter=lfs diff=lfs merge=lfs -text
+*.data* filter=lfs diff=lfs merge=lfs -text
+models/final_language_model.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/final_language_model.index filter=lfs diff=lfs merge=lfs -text
+models/final_language_model.meta filter=lfs diff=lfs merge=lfs -text
+models/final_transformer_summarization.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/final_transformer_summarization.index filter=lfs diff=lfs merge=lfs -text
+models/final_transformer_summarization.meta filter=lfs diff=lfs merge=lfs -text
+models/checkpoint filter=lfs diff=lfs merge=lfs -text
